@@ -1,5 +1,7 @@
 ## React Spotify Clone
 
+# Screenshot
+
 
 # Getting Started with Create React App
 
